@@ -1,0 +1,25 @@
+{/* <section className="h-wrapper">
+					<div className="flexContainer">
+						<div className="flex-left">
+								<img src="./logo.svg" alt="" className="h-icon"/>
+								<div className="primary-text hero-title">
+									<h1>
+										<span>WE'RE</span>
+										<br />
+										COMING
+										<br />
+										SOON
+										</h1>
+										<div className="secondary-text">
+											<span>Hello fellow sippers! We're currently builidng our new</span>
+											<span>fashion store. Add your email below to stay up-to date with</span>
+											<span>announcements and our lanuch deals.</span>
+										</div>
+								</div>
+							</div>
+
+							<div className="img-container">
+								<img src="./hero-desktop.jpg" alt="hero-desktop" />
+							</div>
+						</div>
+        </section> */}
