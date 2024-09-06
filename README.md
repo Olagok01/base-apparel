@@ -2,6 +2,7 @@
 ## Overview
 
 ### Screenshot
-(Include the screenshot here if you wish, see step 4 for instructions on adding images)
+![Screenshot](https://link-to-your-image)
+
 
 ## Links
